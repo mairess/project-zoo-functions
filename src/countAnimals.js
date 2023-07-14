@@ -15,5 +15,5 @@ const countAnimals = (animal) => {
     return data.species.find((specie) => specie.name === animal.species).residents.length;
   }
 };
-console.log(countAnimals({ species: 'bears', sex: 'female' }));
+
 module.exports = countAnimals;
