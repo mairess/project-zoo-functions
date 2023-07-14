@@ -70,14 +70,16 @@ const defaultAvailability = [
   availablesSun,
 ];
 
+const [theDays] = defaultAvailability;
+
 const getSchedule = (scheduleTarget) => {
   if (animalNames.includes(scheduleTarget)) {
     return data.species.find((specie) => specie.name === scheduleTarget).availability;
   }
   if (daysOfWeek.includes(scheduleTarget)) {
-    return { [scheduleTarget]: defaultAvailability[0][scheduleTarget] };
+    return { [scheduleTarget]: theDays[scheduleTarget] };
   }
-  return defaultAvailability[0];
+  return theDays;
 };
 
 module.exports = getSchedule;
