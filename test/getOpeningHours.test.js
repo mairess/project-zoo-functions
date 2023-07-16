@@ -57,4 +57,7 @@ describe('Testes da função getOpeningHours', () => {
       getOpeningHours('Saturday', '9:987-AM');
     }).toThrow(new Error('The minutes must be between 0 and 59'));
   });
+  test('verify function fix12', () => {
+    expect(getOpeningHours('Thursday', '12:00-pm')).toBe(open);
+  });
 });
