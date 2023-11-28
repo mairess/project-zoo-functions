@@ -2,7 +2,7 @@
 
 ## Contexto
 
-Nesse projeto minha responsabilidade foi, usar minha habilidades com `ES6` e `Higher Order Functions`, desenvolver funções de controle para buscar informações sobre os animais 🐒, como espécie e local de origem e também funções para lidar com dados relacionados às pessoas envolvidas na manutenção e cuidado do zoológico 🧑‍🌾. Além de implementar `testes unitários` para as funções já existentes. 🚀
+Nesse projeto minha responsabilidade foi, usando minha habilidades com `ES6` e `Higher Order Functions`, desenvolver funções de controle para buscar informações sobre os animais 🐒, como espécie e local de origem e também funções para lidar com dados relacionados às pessoas envolvidas na manutenção e cuidado do zoológico 🧑‍🌾. Além de implementar `testes unitários` para as funções já existentes. 🚀
 
 ## Competências desenvolvidas
 
