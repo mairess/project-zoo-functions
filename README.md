@@ -1,11 +1,15 @@
 # <p align="center">Projeto Zoo Functions 🦁<p/>
 
-## Objetivo
+## Contexto
 
-No âmbito desse projeto, fui incumbido de uma missão super importante: organizar as informações do zoológico! 🐒 tudo isso usando Hofs.
+Nesse projeto minha responsabilidade foi, usar minha habilidades com `ES6` e `Higher Order Functions`, desenvolver funções de controle para buscar informações sobre os animais 🐒, como espécie e local de origem e também funções para lidar com dados relacionados às pessoas envolvidas na manutenção e cuidado do zoológico 🧑‍🌾. Além de implementar `testes unitários` para as funções já existentes. 🚀
 
-## Minha Responsabilidade
+## Competências desenvolvidas
 
-Minha responsabilidade aqui é desenvolver funções de controle para buscar informações sobre os animais, como espécie e local de origem e também funções para lidar com dados relacionados às pessoas envolvidas na manutenção e cuidado do zoológico. 🧑‍🌾
-
-Além disso de implementar testes para as funções já existentes certificando-me de que tudo funcione como deveria! 🚀
+- Capacidade de uso e compreensão das `Higher Order Functions`.
+- Capreensão de ES6
+    - `arrow functions`
+    - `template literals`
+    - `spread operator`
+    - `parâmetro rest`
+    - `object destructuring`.
