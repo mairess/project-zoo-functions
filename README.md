@@ -10,7 +10,7 @@ Nesse projeto minha responsabilidade foi, usando minhas habilidades com `ES6` e 
 
 Primeiro, instale as dependências com:
 
-```JSON
+```SHELL
 npm install
 ```
 
@@ -18,17 +18,17 @@ Esse projeto não tem front-end, apenas os testes `Jest`.
 
 Rode todos os testes com:
 
-```JSON
+```SHELL
 npm test
 ```
 Um teste por vez, acrescentando o nome do test/spec:
 
-```JSON
+```SHELL
 npm test getOpeningHours
 ```
 Rode a cobertura:
 
-```JSON
+```SHELL
 npm run test:coverage
 ```
 
