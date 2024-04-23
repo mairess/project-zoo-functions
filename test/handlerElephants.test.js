@@ -29,6 +29,6 @@ describe('Testes da função HandlerElephants', () => {
   it('retorna "null" ao chamar handlerElephants com um parâmetro uppercase ou parâmetro que não existe', () => {
     expect(handlerElephants('availaBIlity')).toBeNull();
     expect(handlerElephants('POPULARITY')).toBeNull();
-    expect(handlerElephants('doesNotExitingParam')).not.toBeNull();
+    expect(handlerElephants('doesNotExitingParam')).toBeNull();
   });
 });
