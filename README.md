@@ -1,5 +1,13 @@
 # <p align="center">Projeto Zoo Functions 🦁<p/>
 
+<div align="center">
+  
+<a href="https://codecov.io/gh/mairess/project-zoo-functions" > 
+ <img src="https://codecov.io/gh/mairess/project-zoo-functions/graph/badge.svg?token=5X63U6T17Y"/> 
+ </a>
+
+</div>
+
 ## Contexto
 
 Nesse projeto minha responsabilidade foi, usando minhas habilidades com `ES6` e `Higher Order Functions`, desenvolver funções de controle para buscar informações sobre os animais 🐒, como espécie e local de origem e também funções para lidar com dados relacionados às pessoas envolvidas na manutenção e cuidado do zoológico 🧑‍🌾. Além de implementar `testes unitários` para as funções já existentes. 🚀
